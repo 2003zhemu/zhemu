@@ -1,0 +1,4 @@
+repository "first@zhemuqin@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
